@@ -1,0 +1,2 @@
+# AJAX
+Simple AJAX site
